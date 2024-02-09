@@ -9,8 +9,8 @@
     "server": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Techinfoyt",
-  "license": "MIT",
+  "author": "Ajay",
+  "license": "",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "braintree": "^3.17.0",
